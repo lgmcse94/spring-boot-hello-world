@@ -1,0 +1,4 @@
+Maven Build -> goal spring-boot:run
+http://localhost:8080/hw
+
+reference:https://www.codejava.net/frameworks/spring-boot/spring-boot-hello-world-example
